@@ -49,10 +49,9 @@ The key signal is that the poster has no ongoing relationship with the other par
 | stranger_conflict | 1.00 | 0.73 | 0.85 |
 
 ### Confusion Matrix (Fine-Tuned Model)
-|  | Predicted: interpersonal | Predicted: stranger_conflict |
-|--|--------------------------|------------------------------|
-| True: interpersonal | 8 | 7 |
-| True: stranger_conflict | 2 | 13 |
+
+<img width="1050" height="750" alt="confusion_matrix" src="https://github.com/user-attachments/assets/b7f890f3-0098-471e-976c-a8db51ecafdb" />
+
 
 ## Error Analysis
 
