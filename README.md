@@ -124,9 +124,9 @@ ability, handles these cases better.
 
 | Text (truncated) | True Label | Predicted | Confidence |
 |------------------|------------|-----------|------------|
-| "A woman at the grocery store kept cutting in front of me..." | stranger_conflict | stranger_conflict | 0.91 |
-| "My boyfriend and I have been together for 3 years. Last night..." | interpersonal | interpersonal | 0.88 |
-| "AITA for saying no to my sister for asking for her husband...a random stranger..." | interpersonal | stranger_conflict | 0.50 |
+| "AITA for intentionally sending my mom a dick pic to prove a point?..." | interpersonal | interpersonal | 0.51 |
+| "AITA for declining a stranger to sit at my table in a restaurant?..." | stranger_conflict | stranger_conflict | 0.51 |
+| "AITA for snapping at my boyfriend for telling a stranger that I got fillers?" | stranger_conflict | interpersonal | 0.52 |
 
 ## Reflection
 This project revealed that the distinction between interpersonal and
